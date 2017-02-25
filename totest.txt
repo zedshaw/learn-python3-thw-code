@@ -1,0 +1,7 @@
+### @export "setup"
+echo "This is a test file." > test.txt
+
+### @export "run"
+cat test.txt
+
+python3.5 ex17.py test.txt new_file.txt

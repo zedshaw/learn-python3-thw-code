@@ -1,0 +1,6 @@
+$ python3.6 python/ex1.py
+  File "python/ex1.py", line 3
+    print("I like typing this.
+                             ^
+SyntaxError: EOL while scanning string literal
+
