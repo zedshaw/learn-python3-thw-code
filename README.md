@@ -1,7 +1,7 @@
 Paintings For Bugs Bounty
 ====
 
-I (Zed A. Shaw) an amateur painter, and I'd like to do a fun bug bounty where I exchange paintings I make for bugs people find in my [book](https://learnpythonthehardway.org/python3/).  I'm not a fantastic painter by any means, so don't imagine you're going to sell them for millions of dollars after I die.  Rather, think of this as an elaborate art project that nobody else has done (that I know of).  It'll be all the rage at the Whitney!
+I (Zed A. Shaw) am an amateur painter, and I'd like to do a fun bug bounty where I exchange paintings I make for bugs people find in my [book](https://learnpythonthehardway.org/python3/).  I'm not a fantastic painter by any means, so don't imagine you're going to sell them for millions of dollars after I die.  Rather, think of this as an elaborate art project that nobody else has done (that I know of).  It'll be all the rage at the Whitney!
 
 Here's how the bounty works:
 
