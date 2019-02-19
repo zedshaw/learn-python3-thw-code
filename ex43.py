@@ -185,13 +185,13 @@ class EscapePod(Scene):
 
 
         if int(guess) != good_pod:
-            print("You jump into pod {guess} and hit the eject button.")
+            print(f"You jump into pod {guess} and hit the eject button.")
             print("The pod escapes out into the void of space, then")
             print("implodes as the hull ruptures, crushing your body")
             print("into jam jelly.")
             return 'death'
         else:
-            print("You jump into pod {guess} and hit the eject button.")
+            print(f"You jump into pod {guess} and hit the eject button.")
             print("The pod easily slides out into space heading to")
             print("the planet below.  As it flies to the planet, you look")
             print("back and see your ship implode then explode like a")
